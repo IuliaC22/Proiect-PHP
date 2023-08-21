@@ -1,0 +1,26 @@
+
+    body {
+
+        background-image: url("Product-images/5411398.jpg");
+
+        background-repeat: no-repeat;
+
+        background-size: cover;
+
+        height: 500px;
+
+    background-position: center;
+
+    }
+
+
+    h1{
+        padding-top: 150px;
+
+        text-align: center;
+
+    font-size: 50px;
+
+        color: white;
+
+    }
